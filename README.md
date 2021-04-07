@@ -1,6 +1,6 @@
-#Projeto Clone Netflix
+# Instagram-Clone
+Projeto clone da página de login do Instagram, usando os conhecimentos adiquiridos do Bootcamp HTML5 Digital Inovattion One
 
-#Bootcamp HTML5 Digital Invattion One
 
 
 
